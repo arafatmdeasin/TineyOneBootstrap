@@ -1,0 +1,240 @@
+/* Common css starts */
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+
+}
+
+p {
+    color: #898989;
+}
+
+.p1-text {
+    font-size: 20px;
+}
+
+.p2-text {}
+
+.h-text {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+/* Common css ends */
+
+
+/*header starts*/
+header {
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+
+.heading {
+    padding: 15px 0;
+}
+
+.custom-nav {}
+
+.menu {}
+
+.menu ul {}
+
+.menu ul li {}
+
+.menu ul li a {
+
+    margin: 0 34px;
+    font-size: 22px;
+    color: #010101 !important;
+    font-weight: 700;
+}
+
+.menu ul li a:hover {
+    color: white !important;
+}
+
+/*header ends*/
+
+
+
+/* banner starts */
+.banner {
+    padding: 50px 0 0px 0;
+}
+
+.b-content {
+    margin-top: 100px;
+}
+
+.b-content .h-text {}
+
+.b-content .p1-text {
+    color: #313841;
+    margin: 30px 0;
+}
+
+.b-content .p2-text {}
+
+.b-img {
+    text-align: center;
+}
+
+.b-img img {}
+
+.carousel-indicators {
+    bottom: -80px;
+}
+
+.carousel-indicators button {
+    height: 12px !important;
+    width: 12px !important;
+    border-radius: 50%;
+}
+
+/* banner ends */
+
+/* feature starts */
+.feature-section {
+    padding: 100px 0px;
+}
+
+.f-content .h-text {}
+
+.f-content .p1-text,
+.kit-content .p1-text {
+    margin-top: 15px !important;
+}
+
+.item {
+    margin-top: 70px;
+}
+
+.item-icon {}
+
+.item-icon i {
+    font-size: 50px;
+    margin-top: 6px;
+}
+
+.item-content {}
+
+.item-content .p2-text {
+    line-height: 22px;
+    letter-spacing: 1px;
+    margin-top: 6px;
+}
+
+.item-content .strong-text {
+    font-size: 22px;
+    font-weight: 400;
+
+}
+
+/* feature ends */
+
+/* footer starts */
+footer {
+    padding: 100px 0px;
+    background-color: black;
+}
+
+/* kit starts */
+.kit {}
+
+.kit-content {}
+
+.kit-content .h-text {
+    color: #fcdb00;
+}
+
+.kit-content .p1-text {}
+
+.kit-form {
+    padding: 30px 0 60px;
+}
+
+.kit-form .col-lg-8 {}
+
+.kit-form .col-lg-8 input {
+    padding: 12px 20px ! important;
+}
+
+.kit-form .col-lg-2 {}
+
+.kit-form .col-lg-2 button {
+    font-weight: 600;
+    background: #fcdb00;
+    padding: 12px 40px !important;
+    /* border: 1px solid transparent; */
+    /* border-radius: 5px; */
+}
+
+.kit-form .col-lg-2 button:hover {
+    background: transparent;
+    border-color: #fcdb00;
+    color: #fcdb00;
+}
+
+.kit-social {
+    margin-bottom: 100px;
+}
+
+
+
+.kit-social .s-icon {
+    text-align: center;
+    background: #fcdb00;
+    height: auto;
+    width: 55px;
+    border-radius: 12px;
+}
+
+.kit-social .s-icon:hover {
+    background-color: transparent;
+}
+
+.kit-social .s-icon i {
+    font-size: 42px;
+    padding: 7px 0px;
+    /* border-radius: 10px; */
+}
+
+.col-1 {
+    padding: 0;
+}
+
+.kit-social .s-icon i:hover {
+    background: transparent;
+    border-color: #fcdb00;
+    color: #fcdb00;
+    cursor: pointer;
+}
+
+/* kit ends */
+
+/* addres links starts */
+address {
+    color: white;
+}
+
+.links ul {
+    padding: 0;
+    /* margin: 0; */
+}
+
+.links ul li {
+    list-style: none;
+}
+
+.links ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.links ul li a:hover {
+    color: #fcdb00;
+}
+
+/* addres links ends */
+
+/* footer ends */

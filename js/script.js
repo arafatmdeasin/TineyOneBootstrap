@@ -1,0 +1,1 @@
+alert("Hey!Welcome. This is the first responsive website I have created using Bootstrap.");
